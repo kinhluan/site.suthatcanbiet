@@ -11,6 +11,6 @@ http://suthatcanbiet.com
 
 By 500bits.com
 
-Site: http://site500bits.com
+Site: http://site.500bits.com
 
 Copyright 2015
