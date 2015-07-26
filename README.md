@@ -1,4 +1,4 @@
-# [500bits.com](http://500bits.com/)
+# [suthatcanbiet.com](http://suthatcanbiet.com/)
 
 * >>> ╔═══╦═══╦═══╦╗........╔╗
 * >>> ║╔══╣╔═╗║╔═╗║║.....╔╝╚╗
@@ -7,10 +7,10 @@
 * >>> ╔══╝║╚═╝║╚═╝║╚╝║║║╚╬══╠╣╚═╣╚╝║║║║
 * >>> ╚═══╩═══╩═══╩══╩╝╚═╩══╩╩══╩══╩╩╩╝
 
-http://site.500bits.com
+http://suthatcanbiet.com
 
-By Kinh Luân
+By 500bits.com
 
-Facebook: http://fb.com/kinhluan.buihuynh
+Site: http://site500bits.com
 
 Copyright 2015
